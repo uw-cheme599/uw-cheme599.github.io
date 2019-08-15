@@ -1,10 +1,10 @@
 # Site settings
-title: UW DIRECT Courses for Data Scientists
-email: dacb -- AT -- uw.edu
-description: "UW Courses for NSF NRT DIRECT"
-url: "http://uwdirect.github.io"
-twitter_username: dacbUW
-github_username:  UWDIRECT
+title: UW ChemE 599 Image Analysis for Data Scientists
+email: ccurtis7 -- AT -- uw.edu
+description: "Image Analysis for Data Scientists"
+url: "https://uw-cheme599.github.io/"
+twitter_username: derchadmeister
+github_username:  uw-cheme599
 
 
 # Build settings
