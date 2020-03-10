@@ -47,6 +47,12 @@ Class participation will be graded based on weekly project summaries. These are 
 
 This course is a project-based course. Students will propose projects in the second week of the course based on data from their research or publicly available datasets in a topic of interest. **Students must have access to a dataset before selecting a project**. After project proposals have been made in the second week, students can form teams of 2-4 students to carry out the project for the rest of the quarter.
 
+If you have a paucity of image data, there are many open image datasets available. Check out a few of these for inspiration:
+
+1. Federal agencies such as [NASA](https://data.nasa.gov/browse)
+2. Journals that publish open data like [Nature Scientific Data](https://www.nature.com/sdata/)
+3. Datasets available through university libraries, such as our own [UW ResearchWorks](https://digital.lib.washington.edu/researchworks/)
+
 Final projects should be organized into a Github repo taking using a mixture of Markdown, Python, and Jupyter notebook files. The project should be well-documented, including function descriptions and tutorials. Teams are encouraged to use the Github Wiki pages to develop their documentation (see [Sphinx](https://www.sphinx-doc.org/en/master/) for an excellent resource in developing high-quality documentation). The UW eScience-developed [Shablona](https://github.com/uwescience/shablona) package is also a good tool, and is meant to be used as a template for developing new software packages.
 
 Final projects will culminate in a presentation at the end of the quarter. Presentations will be graded on the use of image processing tools, good software practices, and presentation. A rubric for the final project can be found [here](https://github.com/uw-cheme599/uw-cheme599.github.io/raw/master/Presentation_Rubric.doc).
