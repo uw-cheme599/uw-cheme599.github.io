@@ -47,6 +47,14 @@ Class participation will be graded based on weekly project summaries. These are 
 
 This course is a project-based course. Students will propose projects in the second week of the course based on data from their research or publicly available datasets in a topic of interest. **Students must have access to a dataset before selecting a project**. After project proposals have been made in the second week, students can form teams of 2-4 students to carry out the project for the rest of the quarter.
 
-Final projects will culminate in a presentation at the end of the quarter. Presentations will be graded on the use of image processing tools, good software practices, and presentation. A rubric for the final project can be found here.
+Final projects should be organized into a Github repo taking using a mixture of Markdown, Python, and Jupyter notebook files. The project should be well-documented, including function descriptions and tutorials. Teams are encouraged to use the Github Wiki pages to develop their documentation (see [Sphinx](https://www.sphinx-doc.org/en/master/) for an excellent resource in developing high-quality documentation). The UW eScience-developed [Shablona](https://github.com/uwescience/shablona) package is also a good tool, and is meant to be used as a template for developing new software packages.
+
+Final projects will culminate in a presentation at the end of the quarter. Presentations will be graded on the use of image processing tools, good software practices, and presentation. A rubric for the final project can be found [here]().
+
+Final presentation organization and design are up to the students' discretion, but should include at minimum:
+
+1. Problem setup and introduction: What problem is the team seeking to address? Where does this fit in the field? What datasets is the team using?
+2. Methods: What pre-existing packages, modules, functions etc. is the team using to address the problem? What novel tools did the team develop to address the problem?
+3. Results and Discussion: Was the team able to address the problem as originally specified? What modifications were made, if any?
 
 Final projects will be graded as a group effort. Students will be able to give input on team member contributions through a team evaluation survey. Team members will be given 100 points to allot among all team members e.g. if you think all team members contributed equally and you are in a team of 3, you would give each team member 33.3 points.
