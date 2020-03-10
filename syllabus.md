@@ -17,4 +17,4 @@ collection: main
 | 7    | 11     | Wavelets           | Wavelets II        |          |       |
 | 8    | 18     | Color Images       | Compression        |          |       |
 | 9    | 25     | Object Recognition | In-class Time      |          |       |
-| 10   | Jun 1  | In-class Time      | Final Presentations |         |       |
+| 10   | Jun 1  | Final Presentations | Final Presentations |         |       |

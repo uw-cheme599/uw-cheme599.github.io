@@ -15,18 +15,17 @@ collection: main
 - 10:00 - 11:20 am
 - [Odegaard Undergraduate Library](http://uw.edu/maps?oug) 141
 
-## Course Descriptions
+## Course Description and Objectives:
 
-TBD
+Are images or videos a key dataset in some of your research workflows? Image datasets are increasingly important in many fields of research including microscopy, medical imaging, oceanography, and astronomy. While images can provide qualitative information, it can often be difficult to extract quantitative information from images, especially when prioritizing reproducibility.
 
-## Course Design
+In this course, students will be introduced to a number of image processing and analysis tools using Python libraries such as sci-kit image. These methods will address a number of use cases including:
 
-
-
-## Course Objectives
-
-
-
+* **Image description**: Developing descriptors of features from datasets to quantitatively summarize information contained in them.
+* **Image transforms**: Image transforms such as the Fourier transform or the wavelet transform can be used in many image analysis workflows.
+* **Image morphology**: Identifying shapes and features within an image and calculating geometrical- and intensity-based properties.
+* **Image registration**: Aligning images with a common frame of reference, such as images taken in different z-planes or images with different fluorophores.
+* **Object recognition and machine learning**: Images can also be used in machine learning algorithms to do complex tasks such as identifying objects within an image.
 
 ## Conduct
 
