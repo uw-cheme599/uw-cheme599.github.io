@@ -49,7 +49,7 @@ This course is a project-based course. Students will propose projects in the sec
 
 Final projects should be organized into a Github repo taking using a mixture of Markdown, Python, and Jupyter notebook files. The project should be well-documented, including function descriptions and tutorials. Teams are encouraged to use the Github Wiki pages to develop their documentation (see [Sphinx](https://www.sphinx-doc.org/en/master/) for an excellent resource in developing high-quality documentation). The UW eScience-developed [Shablona](https://github.com/uwescience/shablona) package is also a good tool, and is meant to be used as a template for developing new software packages.
 
-Final projects will culminate in a presentation at the end of the quarter. Presentations will be graded on the use of image processing tools, good software practices, and presentation. A rubric for the final project can be found [here]().
+Final projects will culminate in a presentation at the end of the quarter. Presentations will be graded on the use of image processing tools, good software practices, and presentation. A rubric for the final project can be found [here](https://github.com/uw-cheme599/uw-cheme599.github.io/raw/master/Presentation_Rubric.doc).
 
 Final presentation organization and design are up to the students' discretion, but should include at minimum:
 
