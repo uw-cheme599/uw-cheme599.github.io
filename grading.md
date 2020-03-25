@@ -43,6 +43,8 @@ We will follow UW academic misconduct policy for any suspected instances of chea
 
 Class participation will be graded based on weekly project summaries. These are informal 2-3 minute presentations outlining what was accomplished in the previous week, any roadblocks that were encountered, and goals for the following week as well as soliciting any help from other teams.
 
+Project summaries should be accompanied by the teams GitHub Projects page. This page can be used to track project tasks in different stages of completion, as well as assign tasks to team members. This should be updated weekly during the course of the quarter.
+
 ## Course Project
 
 This course is a project-based course. Students will propose projects in the second week of the course based on data from their research or publicly available datasets in a topic of interest. **Students must have access to a dataset before selecting a project**. After project proposals have been made in the second week, students can form teams of 2-4 students to carry out the project for the rest of the quarter.
