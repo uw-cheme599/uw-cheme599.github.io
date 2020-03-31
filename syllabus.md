@@ -10,7 +10,7 @@ The link for joining lectures via Zoom can be found [here](https://washington.zo
 
 | Week | of     | Tues               | Thurs              | HW       | Due   |
 | ---- | -----  | ------------------ | ------------------ | -------- | ----- |
-| 1    | Mar 30 | Course Intro.      | Matplotlib/Skimage | HW1      |       |
+| 1    | Mar 30 | [Course Intro.](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec607971-3890-4cfe-b76d-ab8f01191307)      | Matplotlib/Skimage | HW1      |       |
 | 2    | Apr 6  | Fundamentals       | Project Pitches/<br> Team Formation | HW2      |       |
 | 3    | 13     | Filtering          | Fourier Transform  | HW3      |       |
 | 4    | 20     | Morphology         | Segmentation       | HW4      |       |
