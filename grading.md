@@ -18,13 +18,15 @@ Course project: 55%
 
 There will be four homework assignments near the beginning of the course for students to familiarize themselves with some of the image processing tools used throughout the course, as well as provide some guiding exercises for developing their final projects.
 
-Homeworks will be submitted via Github classroom in the form of a GitHub repository. All written work should be submitted in the repo README.md file using Markdown and Latex (see Markdown introduction [here](https://www.markdownguide.org/basic-syntax/) and Latex introduction [here](https://www.overleaf.com/learn/latex/Mathematical_expressions)) or as a Jupyter notebook.
+This quarter, we will be piloting JupyterHub for content delivery and homework submission. Students will have an individual server to which they can log in to access lecture materials and homework assignments. The server can be accessed via a browser (Chrome and Firefox recommended) using your UWNetID credentials. The server comes with all the software packages you will need to complete the homework pre-installed, saving you all that headache.
 
-Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/). See a video tutorial for submitting homework assignments with Git [here](https://uw.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=847f11be-1154-4c41-9d10-aaff0122ebd7).
+All homeworks will be Python-based in the form of Jupyter notebooks. Jupyter notebooks allow you to weave both code and text (in the form of Markdown) into a single cohesive document. You can find an introduction to Markdown [here](https://www.markdownguide.org/basic-syntax/) and Latex (for equations) [here](https://www.overleaf.com/learn/latex/Mathematical_expressions)).
 
-Students will be able to resubmit homeworks to be regraded. All homeworks are due at midnight on the day specified.
+All homeworks are due at midnight on the day specified.
 
 ## GitHub Tools
+
+We will be using GitHub to manage course projects. Your homework assignments will gradually introduce you to some of the features of GitHub. Please see instructions for installing Git [here](https://uwescience.github.io/2019-10-01-uw/).
 
 Here are a few tutorial videos on some of the tools available to you using GitHub:
 
